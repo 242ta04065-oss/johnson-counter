@@ -1,0 +1,1 @@
+iverilog -o johnson_counter src/johnson_counter.v tb/johnson_counter_tb.v
